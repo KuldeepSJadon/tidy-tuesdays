@@ -66,4 +66,4 @@ cols(
 +          subtitle = "Falling rocks by year and size", x = "", y ="") +
 +     transition_manual(anim_yr) -> a
 > animate(a, duration = 10, fps = 25, end_pause = 50, type = "cairo", width = 800, height = 500)
-http://localhost:13943/session/file32ec1579553b.gif 
+> anim_save("C:/Users/USER/Desktop/New folder")
