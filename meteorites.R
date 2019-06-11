@@ -1,3 +1,5 @@
+Thanks to  jonspring Update metereorite_anim.R
+
 ########################################################################
 ## Project: Tidy Tuesday 2019-10-04
 ## Script purpose: Use gganimate package to create an animate
